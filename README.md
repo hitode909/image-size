@@ -1,7 +1,5 @@
 # image-size
 
-<https://image-size.herokuapp.com>
-
 ```
 $ gem install bundler
 $ bundle install
